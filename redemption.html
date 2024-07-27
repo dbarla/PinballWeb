@@ -82,13 +82,20 @@
         }
         .image-container {
             text-align: center;
-            margin: 20px 0; /* Espacio arriba y abajo de la imagen */
+            margin: 20px 0; /* Espacio arriba y abajo de las imágenes */
         }
         .image-container img {
             max-width: 100%;
             height: auto;
+        }
+        .image-container .first-image {
             width: 1527px; /* Ajustar según el tamaño original de la imagen */
             height: 852px; /* Ajustar según el tamaño original de la imagen */
+        }
+        .image-container .second-image {
+            width: 1527px; /* Ajustar según el tamaño original de la imagen */
+            height: 852px; /* Ajustar según el tamaño original de la imagen */
+            margin-top: 20px; /* Espacio entre las dos imágenes */
         }
     </style>
 </head>
@@ -105,7 +112,8 @@
         <a href="articulo4.html">Artículo #4</a>
     </div>
     <div class="image-container">
-        <img src="redemption.png" alt="Redemption Pinball">
+        <img src="redemption2.png" alt="Redemption2 Pinball" class="first-image">
+        <img src="redemption.png" alt="Redemption Pinball" class="second-image">
     </div>
     <div class="container">
         <div class="content-section">
