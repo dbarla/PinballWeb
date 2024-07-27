@@ -7,6 +7,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
+    <link rel="stylesheet" href="style.css?v=1.0"> <!-- Usa un query string para cache busting -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -95,23 +96,12 @@
         <p>Este es un ejemplo de cómo configurar tu sitio web con GitHub Pages.</p>
         <div class="content-section" id="articulo1">
             <h2>Godzilla: La Bestia de los Pinball de los 90</h2>
-            <p>En el turbulento paisaje de los años noventa, donde las luces de neón y los ritmos electrónicos transformaban el entretenimiento, surgió una máquina de pinball que capturó la esencia del caos y la maravilla que define a las criaturas míticas...</p>
+            <p>En el turbulento paisaje de los años noventa, donde las luces de neón y los ritmos electrónicos transformaban el entretenimiento...</p>
             <!-- Contenido del artículo -->
         </div>
     </div>
     <footer>
         <p>&copy; 2024 Pinball Mania</p>
     </footer>
-    <script>
-        function forceReload() {
-            var lastModified = document.lastModified;
-            var url = window.location.href.split('?')[0];
-            var newUrl = url + '?v=' + lastModified;
-            if (window.location.href !== newUrl) {
-                window.location.href = newUrl;
-            }
-        }
-        window.onload = forceReload;
-    </script>
 </body>
 </html>
