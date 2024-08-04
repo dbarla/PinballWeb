@@ -107,14 +107,59 @@ Ruy López (Apertura Española)
 				99) Sumerian Curse: The Warlord’s Wrath										ok
 				100) Greek Phalanx: Shadows of Olympus										ok
 				
-				101)
-				102)
-				103)
-				104)
-				105)
-				106)
-				107)
-				108)
+				101) El enigma del Bosque Encantado - Apertura Inglesa								ok
+				102) La batalla de los Cuervos - Defensa Siciliana								ok
+				103) El misterio de la Torre de Cristal - Apertura Catalana							ok
+				104) La sombra del Dragón Negro - Defensa Pirc									ok
+				105) El secreto del Valle Prohibido - Defensa Alekhine								ok
+				106) El guardián del Laberinto - Apertura Ruy López								ok
+				107) La maldición del Rey de Hielo - Defensa Escandinava							ok
+				108) El caballero de la Rosa Negra - Apertura de los Cuatro Caballos						ok
+				109) La leyenda del Guerrero Oscuro - Defensa Francesa								ok
+				110) El tesoro de la Isla del Sol - Apertura Italiana								ok
+
+				111) La venganza del Fantasma Blanco - Defensa Caro-Kann
+				112) El viaje del Príncipe Errante - Apertura Italiana
+				113) El acertijo del Sabio Antiguo - Defensa Nimzoindia
+				114) El reino de las Sombras - Apertura Grunfeld
+				115) La profecía del Oráculo - Defensa India del Rey
+				116) El rescate de la Princesa de Hielo - Defensa Holandesa
+				117) El tesoro del Desierto Dorado - Apertura Vienesa
+				118) El legado del Mago Oscuro - Defensa Benoni
+				119) La búsqueda del Amuleto Perdido - Apertura Larsen
+				120) El pacto de los Dioses - Defensa Moderna
+
+				121) El espejo del Alma - Apertura Bird
+				122) El sendero de los Gigantes - Defensa Philidor
+				123) El desafío del Dragón de Fuego - Defensa Grünfeld
+				124) El retorno del Héroe Olvidado - Apertura Escocesa
+				125) El conjuro del Bosque Profundo - Defensa Siciliana
+				126) El portal del Tiempo - Defensa Pirc
+				127) La lágrima del Unicornio - Apertura Ruy López
+				128) El último guardián - Defensa Escandinava
+				129) La espada del Valor - Apertura Inglesa
+				130) El corazón del Fénix - Defensa Francesa
+				131) La máscara del Enigma - Apertura Italiana
+				132) El enigma del Reino Perdido - Defensa Nimzoindia
+				133) El despertar del Guardián - Apertura Catalana
+				134) El legado de los Antiguos - Defensa India del Rey
+				135) La danza de las Sombras - Defensa Caro-Kann
+				136) El hechizo del Bosque - Apertura Larsen
+				137) El laberinto de Cristal - Defensa Benoni
+				138) El pacto del Dragón - Apertura Vienesa
+				139) El guardián del Valle - Defensa Moderna
+				140) El misterio del Amuleto - Apertura Bird
+				141) El secreto del Guardián - Defensa Philidor
+				142) El destino del Guerrero - Defensa Grünfeld
+				143) La maldición del Dragón - Defensa Siciliana
+				102) El caballero de la Noche Eterna - Defensa Pirc
+				103) El caballero de la Luna - Defensa Pirc
+				104) El canto del Fénix - Apertura Ruy López
+				105) El pacto del Guardián - Defensa Escandinava
+				106) El reino del Dragón Blanco - Apertura Inglesa
+				107) El hechizo de la Dama - Defensa Francesa
+				108) El desafío del Enigma - Apertura Italiana
+
 				109)
 				110)
 				111)
@@ -5511,8 +5556,263 @@ The Sorcerer's Arena: The Pirc Defense se convirtió en una leyenda en el mundo 
 ******************************************************************************
 ******************************************************************************
 
+101) El enigma del Bosque Encantado - Apertura Inglesa
+Había una vez un antiguo bosque encantado, conocido solo por aquellos lo suficientemente valientes para adentrarse en sus profundidades. Los árboles, altos y retorcidos, susurraban secretos de épocas pasadas y escondían enigmas que pocos podían resolver. En el corazón del bosque, una torre de piedra se alzaba, custodiando un tesoro invaluable: el amuleto del conocimiento.
+
+La leyenda decía que aquel que pudiera resolver el enigma del Bosque Encantado obtendría el poder del amuleto. Muchos caballeros, magos y aventureros habían intentado descifrar el misterio, pero todos habían fracasado, atrapados para siempre en el laberinto del bosque.
+
+Un día, un joven príncipe llamado Alaric, decidido a demostrar su valía, se adentró en el bosque. Con su espada brillante y su espíritu indomable, estaba decidido a resolver el enigma y reclamar el amuleto. Mientras avanzaba, el bosque parecía susurrar su nombre, retando su coraje y astucia.
+
+Al llegar a la torre, Alaric encontró un antiguo tablero de ajedrez tallado en piedra en el suelo. Sobre el tablero, las piezas estaban dispuestas en una posición específica: la Apertura Inglesa. Un rayo de luz iluminó el tablero, revelando un pergamino con un mensaje:
+
+"Solo aquel que entienda los movimientos y estrategias de la Apertura Inglesa podrá avanzar. Resuelve este puzzle y el camino se abrirá para ti."
+
+Puzzle:
+
+Blancas: peones en c4 y e4, caballos en c3 y f3, alfiles en g2 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d7 y e7, caballos en g8 y f6, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+
+
+******************************************************************************
+******************************************************************************
+
+102) La batalla de los Cuervos - Defensa Siciliana
+En un reino lejano, donde los cuervos eran considerados heraldos de la guerra, se libraba una batalla épica entre dos poderosos ejércitos. Los Cuervos Negros, liderados por el temible general Raven, y los Cuervos Blancos, bajo el mando de la astuta princesa Elara, se enfrentaban en un conflicto que decidiría el destino del reino.
+
+El campo de batalla estaba lleno de guerreros valientes y estrategas hábiles, pero el verdadero enfrentamiento ocurría en la mente de los líderes, donde cada movimiento era crucial. La princesa Elara, conocida por su inteligencia y habilidades tácticas, decidió usar una estrategia poco convencional: la Defensa Siciliana.
+
+Mientras las tropas se preparaban para el combate, Elara dispuso un tablero de ajedrez en su tienda, replicando la posición exacta del campo de batalla. Sabía que si podía encontrar la solución al enigma del tablero, podría asegurar la victoria de su ejército.
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en c5 y e6, caballos en c6 y f6, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+******************************************************************************
+******************************************************************************
+
+103) El misterio de la Torre de Cristal - Apertura Catalana
+En una tierra lejana, rodeada de montañas nevadas, se encontraba la Torre de Cristal, un lugar de maravillas y misterios. La torre brillaba con la luz del sol, reflejando colores en todas direcciones, pero su belleza ocultaba un enigma que pocos habían logrado descifrar.
+
+La leyenda contaba que en lo más alto de la torre, había un salón lleno de tesoros y conocimientos ancestrales. Para llegar a él, los aventureros debían resolver el misterio de la Apertura Catalana, una serie de movimientos en el tablero de ajedrez que revelaría el camino oculto.
+
+Un joven erudito llamado Aidan, fascinado por la historia de la torre, decidió embarcarse en la aventura. Armado con su ingenio y su amor por el ajedrez, se dispuso a desentrañar el misterio. Al llegar a la torre, encontró un antiguo tablero de ajedrez y un pergamino que decía:
+
+"Aquellos que buscan la sabiduría deben primero dominar la Apertura Catalana. Resuelve este puzzle y el camino a la cima se abrirá ante ti."
+
+Puzzle:
+
+Blancas: peones en d4 y c4, caballos en c3 y f3, alfiles en g2 y e2, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d5 y e6, caballos en b8 y f6, alfiles en e7 y b4, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+
+******************************************************************************
+******************************************************************************
+
+
+103) El misterio de la Torre de Cristal - Apertura Catalana
+En una tierra lejana, rodeada de montañas nevadas, se encontraba la Torre de Cristal, un lugar de maravillas y misterios. La torre brillaba con la luz del sol, reflejando colores en todas direcciones, pero su belleza ocultaba un enigma que pocos habían logrado descifrar.
+
+La leyenda contaba que en lo más alto de la torre, había un salón lleno de tesoros y conocimientos ancestrales. Para llegar a él, los aventureros debían resolver el misterio de la Apertura Catalana, una serie de movimientos en el tablero de ajedrez que revelaría el camino oculto.
+
+Un joven erudito llamado Aidan, fascinado por la historia de la torre, decidió embarcarse en la aventura. Armado con su ingenio y su amor por el ajedrez, se dispuso a desentrañar el misterio. Al llegar a la torre, encontró un antiguo tablero de ajedrez y un pergamino que decía:
+
+"Aquellos que buscan la sabiduría deben primero dominar la Apertura Catalana. Resuelve este puzzle y el camino a la cima se abrirá ante ti."
+
+Puzzle:
+
+Blancas: peones en d4 y c4, caballos en c3 y f3, alfiles en g2 y e2, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d5 y e6, caballos en b8 y f6, alfiles en e7 y b4, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+******************************************************************************
+******************************************************************************
+
+104) La sombra del Dragón Negro - Defensa Pirc
+En los confines del reino, donde la noche era eterna y las sombras dominaban el paisaje, vivía un dragón conocido como el Dragón Negro. Este dragón, de temible poder y astucia, protegía un secreto antiguo que solo podía ser revelado mediante la resolución de un complejo enigma de ajedrez.
+
+Sir Cedric, un caballero conocido por su valentía y su habilidad con el ajedrez, decidió enfrentar al Dragón Negro. Sabía que no sería una tarea fácil, pero estaba decidido a desentrañar el misterio y revelar el secreto oculto. Al llegar al oscuro refugio del dragón, encontró un tablero de ajedrez iluminado por la tenue luz de una antorcha y un pergamino con las siguientes palabras:
+
+"Solo aquel que pueda desentrañar la Defensa Pirc y resolver este enigma, logrará superar las sombras y descubrir el secreto del Dragón Negro."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en g2 y e2, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d6 y e6, caballos en b8 y f6, alfiles en e7 y g7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+
+******************************************************************************
+******************************************************************************
+
+
+105) El secreto del Valle Prohibido - Defensa Alekhine
+En un valle escondido entre montañas escarpadas, donde pocos se atrevían a aventurarse, se encontraba el Valle Prohibido. Este valle, envuelto en misterio, albergaba un tesoro de valor incalculable. Solo aquellos que podían resolver el enigma de la Defensa Alekhine podrían acceder a sus secretos.
+
+Una joven exploradora llamada Lyra, conocida por su destreza y su pasión por los acertijos, decidió enfrentar el desafío del Valle Prohibido. Al llegar al corazón del valle, encontró un antiguo tablero de ajedrez tallado en piedra y un pergamino que decía:
+
+"Para desentrañar el secreto del Valle Prohibido, debes primero dominar la Defensa Alekhine. Resuelve este puzzle y el camino se revelará."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d6 y e5, caballos en f6 y g8, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+
+******************************************************************************
+******************************************************************************
+
+106) El guardián del Laberinto - Apertura Ruy López
+En el corazón de un laberinto antiguo, donde los muros de piedra escondían secretos milenarios, residía el Guardián del Laberinto. Este guardián, un enigmático ser de sabiduría inmensa, protegía la entrada a un santuario de conocimientos perdidos. Para acceder al santuario, los valientes debían resolver un enigma basado en la Apertura Ruy López.
+
+Un guerrero llamado Tristan, conocido por su inteligencia y habilidades estratégicas, decidió enfrentar el reto del laberinto. Al llegar al centro, encontró un tablero de ajedrez iluminado por una luz dorada y un pergamino que decía:
+
+"Solo aquel que comprenda los movimientos y estrategias de la Apertura Ruy López podrá desentrañar el misterio del laberinto. Resuelve este puzzle y el camino se abrirá."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en e5 y d6, caballos en f6 y g8, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+******************************************************************************
+******************************************************************************
+
+107)
+
+107) La maldición del Rey de Hielo - Defensa Escandinava
+En una tierra helada, donde el invierno era eterno y los vientos gélidos azotaban sin cesar, reinaba el Rey de Hielo. Este rey, cuya frialdad no solo se reflejaba en el clima sino también en su corazón, había lanzado una maldición sobre su reino. Solo resolviendo el enigma de la Defensa Escandinava, alguien podría romper la maldición y devolver la calidez a la tierra.
+
+Una valiente hechicera llamada Eira, con el poder de controlar el hielo y la nieve, decidió enfrentar al Rey de Hielo. Al llegar a su palacio de hielo, encontró un tablero de ajedrez incrustado en el suelo y un pergamino que decía:
+
+"Aquellos que buscan liberar al reino deben primero dominar la Defensa Escandinava. Resuelve este puzzle y la maldición se romperá."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en d5 y e6, caballos en b8 y f6, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+******************************************************************************
+******************************************************************************
+
+108) El caballero de la Rosa Negra - Apertura de los Cuatro Caballos
+En un reino lleno de intrigas y secretos, donde las alianzas se formaban y rompían con la misma rapidez, vivía un caballero conocido como el Caballero de la Rosa Negra. Este caballero, famoso por su habilidad en el ajedrez y su lealtad inquebrantable, guardaba un secreto que solo podía ser revelado mediante la Apertura de los Cuatro Caballos.
+
+Lady Eveline, una noble de gran inteligencia y astucia, decidió desentrañar el secreto del caballero. Al llegar a su castillo, encontró un tablero de ajedrez dispuesto en la sala de armas y un pergamino que decía:
+
+"Para descubrir el secreto del Caballero de la Rosa Negra, debes primero dominar la Apertura de los Cuatro Caballos. Resuelve este puzzle y el secreto se revelará."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en e5 y d6, caballos en b8 y g8, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+
+******************************************************************************
+******************************************************************************
+
+109) La leyenda del Guerrero Oscuro - Defensa Francesa
+En una tierra marcada por antiguas batallas, donde los ecos de los guerreros caídos aún resonaban en las montañas, se contaba la leyenda del Guerrero Oscuro. Este guerrero, conocido por su destreza en combate y su habilidad en el ajedrez, había dejado un enigma basado en la Defensa Francesa que solo los más dignos podían resolver.
+
+Una guerrera llamada Isolde, famosa por su valentía y su amor por los acertijos, decidió enfrentar el reto del Guerrero Oscuro. Al llegar al antiguo campo de batalla, encontró un tablero de ajedrez grabado en una roca y un pergamino que decía:
+
+"Para demostrar tu valía y desentrañar el enigma del Guerrero Oscuro, debes primero dominar la Defensa Francesa. Resuelve este puzzle y el misterio se revelará."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en e6 y d5, caballos en b8 y f6, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
+******************************************************************************
+******************************************************************************
+
+110) El tesoro de la Isla del Sol - Apertura Italiana
+En el mar brillante, donde las olas susurraban historias de piratas y tesoros ocultos, se encontraba la Isla del Sol. Esta isla, bañada por la luz dorada del sol, escondía un tesoro que solo podía ser descubierto mediante la resolución de un enigma basado en la Apertura Italiana.
+
+Un joven marinero llamado Marco, conocido por su amor por el ajedrez y su espíritu aventurero, decidió buscar el tesoro. Al llegar a la isla, encontró un tablero de ajedrez tallado en la arena y un pergamino que decía:
+
+"Para descubrir el tesoro de la Isla del Sol, debes primero dominar la Apertura Italiana. Resuelve este puzzle y el tesoro será tuyo."
+
+Puzzle:
+
+Blancas: peones en e4 y d4, caballos en c3 y f3, alfiles en c4 y f1, torre en a1, dama en d1 y rey en e1.
+
+Negras: peones en e5 y d6, caballos en b8 y f6, alfiles en b4 y e7, torre en h8, dama en d8 y rey en e8.
+
+Es el turno de las Blancas. Encuentra la secuencia de movimientos que lleva a las Blancas a una posición ganadora.
+
 ******************************************************************************
 ******************************************************************************
 
 ******************************************************************************
 ******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+******************************************************************************
+******************************************************************************
+
+
+
+
+
+
+
+
+
+
+
