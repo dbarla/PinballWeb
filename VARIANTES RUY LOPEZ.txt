@@ -14,11 +14,14 @@ Ruy López (Apertura Española)
 				6)El Laberinto de López							ok									revisado
 				7)La Maldición de la Apertura Española					ok									revisado
 				8)El Castillo de los Caballeros Perdidos				ok									revisado										
-				9)El Eco del Gambito Fantasma						ok									complicado
-				10) La Noche de los Peones Vivientes (Variante Schieman)		ok
+				9)El Eco del Gambito Fantasma						ok									revisado
+				10) La Noche de los Peones Vivientes (Variante Schieman)		ok									revisado
+
+				11) El Susurro del Alfil Negro						ok									casi...
 
 
-				11) El Susurro del Alfil Negro						ok
+
+
 				12)El Misterio del Fianchetto en la Ciudad de los Sueños		ok
 				13)La Leyenda de la Reina Sanguinaria					ok
 				14)El Resplandor del Caballero Blanco					ok
@@ -865,43 +868,10 @@ El espectro optó por la Variante del Gambito Fantasma, una línea poco convenci
 Elara, reconociendo la intención del espectro de presionar en el flanco de dama, decidió continuar con la preparación para enfrentar el gambito:
 
 h3 Nb8
-a4 c5
-El espectro avanzó con el Gambito Fantasma, buscando abrir el juego:
+d4 Nbd7
+Nbd2 Bb7
+Bc2 Re8
 
-axb5 axb5
-Rxa8 Qb6
-En este punto, hay un error en la secuencia que sigue. Elara debería seguir con:
-
-d4 cxd4
-cxd4 exd4
-Nxd4 Nc6
-Be3 Qc7
-Nxc6 Qxc6
-Ahora, sigamos con los movimientos correctos en la línea del cuento:
-
-Nf5 Bxf5
-exf5 Nbd7
-Incorporación de la Variante
-
-El espectro, con movimientos agresivos, intentó crear caos en el centro del tablero:
-
-g4 h6
-h4 Nxg4
-Ng5 hxg5
-Elara, reconociendo la importancia de mantener el equilibrio, decidió reforzar su posición con:
-
-Qxg4 Nf6
-Qxg5 c4
-dxc4 bxc4
-El espectro, tratando de mantener la presión, movió sus piezas con rapidez:
-
-Bxc4 Qc5
-b3 d5
-Desenlace
-
-Elara, con una serie de movimientos estratégicos, encontró una manera de estabilizar la posición y contrarrestar el gambito del espectro. Aprovechando las debilidades en la estructura de peones del espectro, Elara logró crear una posición ventajosa.
-
-Conclusión del Cuento
 
 Con movimientos decisivos y una habilidad excepcional para manejar la presión, Elara logró superar al espectro y resolver el enigma del Gambito Fantasma. Al hacerlo, el eco en la torre se desvaneció, y el espectro apareció con una sonrisa de aprobación. Elara descubrió un antiguo manuscrito que contenía secretos sobre la Apertura Española y el Gambito Fantasma.
 
@@ -910,22 +880,20 @@ Elara salió de la torre con la lección de que enfrentar los desafíos con una 
 La moraleja del cuento es que la preparación y la paciencia son clave para resolver los enigmas más complejos y enfrentar cualquier desafío con éxito.
 
 
-
-
 ******************************************************************************
 ******************************************************************************
 
 10)
 
-VARIANTE SCHIEMAN
-
 La Noche de los Peones Vivientes
 Introducción del Cuento
+
 En una noche oscura y tormentosa, un antiguo castillo en la ladera de una montaña se iluminaba con misteriosos destellos. Se decía que en esa noche, los peones de un antiguo tablero de ajedrez cobraban vida y desafiaban a los intrépidos ajedrecistas a una partida que determinaba su destino. El castillo estaba envuelto en leyendas sobre un enigma relacionado con la Apertura Española que solo los más valientes podían resolver.
 
 El joven estratega Emiliano, conocido por su ingenio y valentía, decidió enfrentar el desafío de la noche. Armado con su tablero y piezas, se adentró en el castillo. Al llegar a la sala principal, encontró un tablero antiguo y enigmático, donde los peones estaban dispuestos de forma extraña. Una figura sombría apareció, retándolo a una partida con la Apertura Española.
 
 Desarrollo del Cuento
+
 Emiliano aceptó el desafío, preparado para enfrentar cualquier truco que los peones vivientes pudieran tener. La partida comenzó con la apertura clásica de la Ruy López:
 
 e4 e5
@@ -944,48 +912,34 @@ El espectro continuó con movimientos agresivos, buscando crear complicaciones:
 Nbd2 f4
 d4 Bg4
 h3 Bh5
-Emiliano, reconociendo el peligro, decidió reforzar su posición y prepararse para una defensa sólida:
-
-Qb3+ Kh8
-Qxb7 Qd7
-Incorporación de la Variante
-El espectro intentó intensificar el ataque con:
-
-dxe5 dxe5
-Nxe5 Qe6
-Qxc7 Bd6
-El espectro comenzó a presionar, utilizando las piezas activas para crear amenazas en la posición de Emiliano. Sin embargo, Emiliano, con movimientos precisos, contrarrestó el ataque:
-
-Qc6 Rac8
-Qb5 Be8
-Qb3 Qe7
-Desenlace
-Emiliano, con una serie de movimientos estratégicos, encontró una manera de estabilizar la posición y neutralizar las amenazas del espectro:
-
-Nf3 Bf7
-Qa4 Be8
-Qa6
-El espectro comenzó a perder su ventaja inicial mientras Emiliano fortalecía su posición. Finalmente, Emiliano logró estabilizar el juego y crear oportunidades para ganar.
-
 Conclusión del Cuento
-Con una serie de movimientos calculados y una preparación meticulosa, Emiliano logró superar la táctica del espectro y ganar la partida. Al hacerlo, el castillo dejó de estar envuelto en misterio y las luces se desvanecieron.
 
-Emiliano encontró un antiguo manuscrito que contenía secretos sobre la Apertura Española y estrategias avanzadas. El castillo, ahora en paz, se convirtió en un lugar de estudio y sabiduría.
+Con una serie de movimientos calculados y una preparación meticulosa, Emiliano respondió a la agresividad del espectro con precisión:
+
+Qb3+
+
+El castillo, al ver el genio de Emiliano y la intensidad de la partida, quedó envuelto en una atmósfera de expectación. La figura sombría observó el movimiento con interés, sabiendo que la partida estaba a punto de tomar un giro decisivo.
+
+Moraleja
 
 La moraleja del cuento es que enfrentar los desafíos con paciencia y una estrategia bien pensada puede llevarnos a descubrir los secretos más profundos y superar incluso los obstáculos más formidables.
+
+
+
 
 ******************************************************************************
 ******************************************************************************
 
 11)
 
-El Susurro del Alfil Negro
 Introducción del Cuento
+
 En un reino lejano y oscuro, había un antiguo castillo envuelto en niebla perpetua. La leyenda contaba que, en ciertas noches de luna llena, un alfil negro aparecía en el tablero de un antiguo ajedrez encantado, susurrando secretos de estrategias olvidadas. Solo aquellos que pudieran resolver el enigma del alfil negro podrían desbloquear los secretos del castillo.
 
 La intrépida ajedrecista Lina, conocida por su habilidad y curiosidad, decidió explorar el castillo. Al llegar a la sala principal, encontró un tablero antiguo con un alfil negro en una posición inusual. Un espectro apareció y la desafió a una partida con la Apertura Española, usando una variante menos común.
 
 Desarrollo del Cuento
+
 Lina aceptó el desafío, preparada para cualquier trampa que el espectro pudiera tener. La partida comenzó con la apertura clásica de la Ruy López:
 
 e4 e5
@@ -1001,44 +955,32 @@ El espectro eligió la Variante del Alfil, una línea que ocurre después de:
 8. c3 O-O
 9. h3 Nb8
 10. a4 c6
+11. d4 Qc7
+12. Nbd2 Nbd7
+13. Nf1 h6
+14. Ng3 Re8
+15. Nh4 Nf8
+16. Nhf5 Bxf5
+17. Nxf5 Ng6
 
-Aquí, el alfil negro juega un papel crucial en la defensa de las negras, ya que su desarrollo posterior puede ser clave:
+Aquí, Lina logró una situación estratégica clave para dar jaque:
 
-d4 Qc7
-Nbd2 Nbd7
-Nf1 h6
-Ng3 Re8
-El espectro continuó con:
-
-Nh4 Nf8
-Nhf5 Bxf5
-Nxf5 Ng6
 Qf3 d5
-Lina, observando el tablero, se dio cuenta de que el alfil negro estaba dispuesto para proteger puntos clave y crear una defensa sólida. Decidió seguir una estrategia cuidadosa:
-
 exd5 cxd5
-Bxd5 Nxd5
-Qxd5 Rad8
-Incorporación de la Variante
-Lina avanzó con movimientos estratégicos para neutralizar las amenazas y aprovechar la debilidad en la posición de su oponente:
+Bxd5 Rad8
+Bxf7+ Kxf7
+.....
 
-Qe4 Bf8
-Be3 Nf4
-Bxf4 exf4
-Lina, con una posición consolidada, creó oportunidades para atacar:
-
-Qf3 g6
-Nd4
+Qb3+ Re6
+Nd4 exd4
+Qxe6#
 Desenlace
-Con una serie de movimientos tácticos y estratégicos, Lina logró superar la táctica del espectro y estabilizar la posición. Aprovechando la debilidad en la estructura de peones del espectro, Lina consiguió una ventaja clara y eventual victoria.
 
-Conclusión del Cuento
-Con movimientos precisos y una preparación meticulosa, Lina resolvió el enigma del alfil negro. Al vencer al espectro, el castillo se iluminó y el misterio se desvaneció. Lina descubrió un antiguo manuscrito que contenía secretos profundos sobre la Apertura Española y estrategias avanzadas.
+Con un jaque mate en la jugada 24, Lina mostró su maestría y aprovechó las debilidades en la posición del espectro para ganar la partida. Al vencer al espectro, el castillo se iluminó y el misterio se desvaneció. Lina descubrió un antiguo manuscrito que contenía secretos profundos sobre la Apertura Española y estrategias avanzadas.
 
 El castillo, ahora libre del hechizo, se convirtió en un lugar de estudio y sabiduría, donde Lina continuó explorando y aprendiendo.
 
 La moraleja del cuento es que, con paciencia, estrategia y la capacidad de adaptarse a los desafíos, podemos desentrañar los secretos más oscuros y superar los obstáculos más formidables.
-
 
 ******************************************************************************
 ******************************************************************************
